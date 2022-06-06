@@ -14,4 +14,5 @@ NOTE: This is designed mostly for promoting widgets in QDesigner
 2. Promote the default widgets to the new ones.
 ![img.png](readme/img2.png)
 
-3. Done.
+3. Done. Promoted widgets will "remember" their state between app launches.
+![](readme/img3.gif)
